@@ -1,2 +1,0 @@
-Title*,Dataset title*,Publisher*,Description,Language,License,AccessURL*,DownloadURL*,MediaType*,CompressionFormat,Format,Bytesize
-Distribution of Huntington disease,Huntington disease mRNA,https://orcid.org/0000-0002-8972-9206,Distribution of Huntington disease transcriptomics microarray,en,https://creativecommons.org/licenses/by-nc/4.0,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE3790,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE3nnn/GSE3790/matrix/GSE3790-GPL96_series_matrix.txt.gz,text/csv,application/gzip,,
